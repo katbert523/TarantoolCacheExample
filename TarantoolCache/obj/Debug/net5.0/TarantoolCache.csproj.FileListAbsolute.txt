@@ -1,0 +1,15 @@
+D:\Examples\TarantoolCacheExample\TarantoolCache\bin\Debug\net5.0\TarantoolCache.deps.json
+D:\Examples\TarantoolCacheExample\TarantoolCache\bin\Debug\net5.0\TarantoolCache.dll
+D:\Examples\TarantoolCacheExample\TarantoolCache\bin\Debug\net5.0\TarantoolCache.pdb
+D:\Examples\TarantoolCacheExample\TarantoolCache\bin\Debug\net5.0\CacheContract.dll
+D:\Examples\TarantoolCacheExample\TarantoolCache\bin\Debug\net5.0\CacheContract.pdb
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.csproj.AssemblyReference.cache
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.AssemblyInfoInputs.cache
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.AssemblyInfo.cs
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.csproj.CoreCompileInputs.cache
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.csproj.CopyComplete
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.dll
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\refint\TarantoolCache.dll
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\TarantoolCache.pdb
+D:\Examples\TarantoolCacheExample\TarantoolCache\obj\Debug\net5.0\ref\TarantoolCache.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CacheContract\CacheContract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="progaudi.tarantool" Version="0.15.0" />
+  </ItemGroup>
+
+</Project>

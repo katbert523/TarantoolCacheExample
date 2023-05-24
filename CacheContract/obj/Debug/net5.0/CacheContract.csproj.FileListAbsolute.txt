@@ -1,0 +1,12 @@
+D:\Examples\TarantoolCacheExample\CacheContract\bin\Debug\net5.0\CacheContract.deps.json
+D:\Examples\TarantoolCacheExample\CacheContract\bin\Debug\net5.0\CacheContract.dll
+D:\Examples\TarantoolCacheExample\CacheContract\bin\Debug\net5.0\CacheContract.pdb
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.csproj.AssemblyReference.cache
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.AssemblyInfoInputs.cache
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.AssemblyInfo.cs
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.csproj.CoreCompileInputs.cache
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.dll
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\refint\CacheContract.dll
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\CacheContract.pdb
+D:\Examples\TarantoolCacheExample\CacheContract\obj\Debug\net5.0\ref\CacheContract.dll
